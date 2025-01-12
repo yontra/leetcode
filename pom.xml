@@ -8,8 +8,9 @@
     <artifactId>leetcode</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+
     <modules>
-        <module>e-1</module>
+        <module>e1</module>
     </modules>
 
     <properties>
