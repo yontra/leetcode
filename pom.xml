@@ -12,6 +12,7 @@
     <modules>
         <module>id1</module>
         <module>id2</module>
+        <module>id3</module>
     </modules>
 
     <properties>
