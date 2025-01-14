@@ -10,8 +10,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>twosum</module>
-        <module>addtwonumbers</module>
+        <module>id1</module>
+        <module>id2</module>
     </modules>
 
     <properties>
