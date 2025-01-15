@@ -13,6 +13,7 @@
         <module>id1</module>
         <module>id2</module>
         <module>id3</module>
+        <module>id4</module>
     </modules>
 
     <properties>
