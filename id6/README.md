@@ -16,6 +16,6 @@ string convert(string s, int numRows);
 
 
 Submission: Accepted
-Runtime: X ms, beats X %
-Memory: X MB, beats X %
-Attempts: X
+Runtime: 27 ms, beats 10.94 %
+Memory: 45.82 MB, beats 13.63 %
+Attempts: 1

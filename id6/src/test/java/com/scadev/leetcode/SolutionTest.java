@@ -14,6 +14,9 @@ class SolutionTest {
         List<Data> list = new ArrayList<>();
         list.add(new Data("PAYPALISHIRING", 3, "PAHNAPLSIIGYIR"));
         list.add(new Data("PAYPALISHIRING", 4, "PINALSIGYAHRPI"));
+        list.add(new Data("A", 1, "A"));
+        list.add(new Data("ABCD", 10, "ABCD"));
+        list.add(new Data("ABCD", 1, "ABCD"));
 
 
         Solution s = new Solution();
