@@ -7,7 +7,7 @@ If reversing x causes the value to go outside the signed 32-bit integer range [-
 Assume the environment does not allow you to store 64-bit integers (signed or unsigned).
 
 
-Submission: X
-Runtime: X ms, beats X %
-Memory: X MB, beats X %
-Attempts: X
+Submission: Accepted
+Runtime: 1 ms, beats 84.48 %
+Memory: 41.06 MB, beats 43.44 %
+Attempts: 4
