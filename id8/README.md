@@ -18,6 +18,6 @@ Return the integer as the final result.
 
 
 Submission: Accepted
-Runtime: X ms, beats X %
-Memory: X MB, beats X %
-Attempts: X
+Runtime: 2 ms, beats 30.43 %
+Memory: 43.92 MB, beats 5.47 %
+Attempts: 3
