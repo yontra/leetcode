@@ -4,7 +4,7 @@ Difficulty: Easy
 Description:
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
-Submission: X
-Runtime: X ms, beats X %
-Memory: X MB, beats X %
-Attempts: X
+Submission: Accepted
+Runtime: 7 ms, beats 16.53 %
+Memory: 44.80 MB, beats 44.80 %
+Attempts: 1

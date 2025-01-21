@@ -12,6 +12,7 @@ class SolutionTest {
     @Test
     void isPalindrome() {
         List<Data> list = new ArrayList<>();
+        list.add(new Data(101, true));
         list.add(new Data(121, true));
         list.add(new Data(-121, false));
         list.add(new Data(10, false));
