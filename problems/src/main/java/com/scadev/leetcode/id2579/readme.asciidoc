@@ -19,8 +19,8 @@ Return the number of colored cells at the end of n minutes.
 [options="header"]
 |===
 | Metric  | Value
-| Runtime | ms, beats %
-| Memory  | MB, beats %
-| Attempts |
+| Runtime | 2 ms, beats 42.21 %
+| Memory  | 40.44 MB, beats 59.02 %
+| Attempts | 2
 |===
 

@@ -14,6 +14,9 @@ class SolutionTest {
         List<Data> list = new ArrayList<>();
         list.add(new Data(1, 1));
         list.add(new Data(2, 5));
+        list.add(new Data(3, 13));
+        list.add(new Data(4, 25));
+        list.add(new Data(69675, 9709071901L));
 
         Solution s = new Solution();
         for (Data data : list) {
@@ -32,4 +35,5 @@ class SolutionTest {
             this.out = out;
         }
     }
+
 }
