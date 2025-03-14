@@ -1,0 +1,36 @@
+== Number of Good Leaf Nodes Pairs
+
+*Link:* https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+
+*Difficulty:* Medium
+
+=== Description
+
+You are given the ``root`` of a binary tree and an integer ``distance``.
+A pair of two different leaf nodes of a binary tree is said to be good if the length
+of the shortest path between them is less than or equal to ``distance``.
+
+Return the number of good leaf node pairs in the tree.
+
+1. Example
+
+image::image.jpg[]
+
+- Input: root = [1,2,3,null,4], distance = 3
+- Output: 1
+- Explanation: The leaf nodes of the tree are 3 and 4 and the length of the shortest path between them is 3.
+This is the only good pair.
+
+= Submission
+[options="header"]
+|===
+
+| Metric |Value
+
+| Runtime | 215 ms, beats 5.74 %
+
+| Memory | 54.91 MB, beats 5.5 %
+
+| Attempts | 2
+
+|===
