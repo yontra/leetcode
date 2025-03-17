@@ -1,0 +1,15 @@
+== Triples with Bitwise AND Equal To Zero
+
+*Link:* https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+
+*Difficulty:* Hard
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | 231 ms, beats 77.97 %
+| Memory  | 44.89 MB, beats 55.08 %
+| Attempts | 4
+|===
+
