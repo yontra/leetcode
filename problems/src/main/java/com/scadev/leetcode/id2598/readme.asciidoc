@@ -1,0 +1,15 @@
+== Smallest Missing Non-negative Integer After Operations
+
+*Link:* https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations/
+
+*Difficulty:* Medium
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | 32 ms, beats 44.79 %
+| Memory  | 66.21 MB, beats 6.13 %
+| Attempts | 4
+|===
+
