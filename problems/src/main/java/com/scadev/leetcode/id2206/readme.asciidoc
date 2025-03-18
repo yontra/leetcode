@@ -1,0 +1,15 @@
+== Divide Array Into Equal Pairs
+
+*Link:* https://leetcode.com/problems/divide-array-into-equal-pairs/
+
+*Difficulty:* Easy
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | 32 ms, beats 6.49 %
+| Memory  | 45.2 MB, beats 30.48 %
+| Attempts | 2
+|===
+
