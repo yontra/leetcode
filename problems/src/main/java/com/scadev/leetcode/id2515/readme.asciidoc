@@ -1,0 +1,15 @@
+== Shortest Distance to Target String in a Circular Array
+
+*Link:* https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+
+*Difficulty:* Easy
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | 1 ms, beats 35.08 %
+| Memory  | 44.62 MB, beats 72.31 %
+| Attempts | 1
+|===
+
