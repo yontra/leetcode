@@ -1,4 +1,4 @@
-package com.scadev.leetcode;
+package com.scadev.leetcode.id0001;
 
 class Solution {
 

@@ -1,0 +1,15 @@
+== Two sum
+
+*Link:* https://leetcode.com/problems/two-sum/
+
+*Difficulty:* Easy
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | 75 ms, beats 5.00 %
+| Memory  | 44.32 MB, beats 99.43 %
+| Attempts | 1
+|===
+
