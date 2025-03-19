@@ -32,8 +32,8 @@ Example 2:
 [options="header"]
 |===
 | Metric  | Value
-| Runtime | x ms, beats x %
-| Memory  | x MB, beats x %
-| Attempts | x
+| Runtime | 22 ms, beats 10.02 %
+| Memory  | 47.66 MB, beats 40.59 %
+| Attempts | 14
 |===
 
