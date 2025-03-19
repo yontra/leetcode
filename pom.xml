@@ -10,16 +10,6 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>id2</module>
-        <module>id3</module>
-        <module>id4</module>
-        <module>id5</module>
-        <module>id6</module>
-        <module>id7</module>
-        <module>id8</module>
-        <module>id9</module>
-        <module>id10</module>
-        <module>id11</module>
         <module>problems</module>
     </modules>
 
