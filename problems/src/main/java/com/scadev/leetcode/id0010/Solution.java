@@ -1,6 +1,6 @@
 package com.scadev.leetcode.id0010;
 
-public class Solution {
+class Solution {
     public boolean isMatch(String s, String p) {
         Matcher m = Tokenizer.pattern(p);
         return m.match(s);

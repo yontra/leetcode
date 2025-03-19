@@ -1,6 +1,6 @@
 package com.scadev.leetcode.id0005;
 
-public class Solution {
+class Solution {
 
     public String longestPalindrome(String s) {
         if (s == null || s.isEmpty()) {

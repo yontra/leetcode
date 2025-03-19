@@ -3,7 +3,7 @@ package com.scadev.leetcode.id0003;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 
     public int lengthOfLongestSubstring(String s) {
         if (s == null || s.isEmpty()) {

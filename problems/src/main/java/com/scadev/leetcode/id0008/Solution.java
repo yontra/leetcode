@@ -1,6 +1,6 @@
 package com.scadev.leetcode.id0008;
 
-public class Solution {
+class Solution {
 
     public int myAtoi(String s) {
         if (s == null || s.isEmpty() || s.length() > 200) {

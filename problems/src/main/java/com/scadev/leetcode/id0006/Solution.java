@@ -1,6 +1,6 @@
 package com.scadev.leetcode.id0006;
 
-public class Solution {
+class Solution {
 
     public String convert(String s, int numRows) {
         if (s == null || s.isEmpty() || s.length() > 1000 || numRows < 1 || numRows > 1000) {

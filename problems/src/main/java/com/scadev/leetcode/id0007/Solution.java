@@ -3,7 +3,7 @@ package com.scadev.leetcode.id0007;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+class Solution {
 
     public int reverse(int x) {
         int prod = 1;
