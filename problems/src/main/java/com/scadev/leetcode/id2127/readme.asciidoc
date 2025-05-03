@@ -1,0 +1,15 @@
+== Maximum Employees to Be Invited to a Meeting
+
+*Link:* https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
+
+*Difficulty:* Hard
+
+= Submission
+[options="header"]
+|===
+| Metric  | Value
+| Runtime | x ms, beats x %
+| Memory  | x MB, beats x %
+| Attempts | x
+|===
+
